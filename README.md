@@ -1,7 +1,7 @@
 # bit_economy
 > 用爬虫爬取了北理乐学2018年经济学概论前八周测试题的答案，感谢参与同学对题库的贡献，题库还在更新中，源码见bit_online.py。
 
-- **请前往[https://atom.io](atom)下载安装编辑器。**
+- **请前往[atom](https://atom.io)下载安装编辑器。**
     ![](atom_0.jpg)
 
 - **在此页面下载** *economy_section1.txt - economy_section8.txt* **共八个文件(点击右侧绿色clone or download），并将所有文件放入同一文件夹下。**
